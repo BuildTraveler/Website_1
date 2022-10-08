@@ -1,4 +1,4 @@
 # Website 0.0.1
-This is my first website
+This is my first website.
 
-release 0.0.1
+Release 0.0.1
